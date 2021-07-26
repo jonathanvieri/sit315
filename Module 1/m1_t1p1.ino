@@ -2,7 +2,6 @@
 int cm = 0;
 int LED = 10;
 
-
 long readUltrasonicDistance(int triggerPin, int echoPin)
 {
   pinMode(triggerPin, OUTPUT);  // Clear the trigger
