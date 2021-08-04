@@ -1,2 +1,2 @@
-# SIT315
-Repo for all SIT315 Assignments
+# SIT315 - Concurrent and Distributed Programming
+
